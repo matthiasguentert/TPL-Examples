@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=07dad02f_002D58be_002D4d0d_002Db880_002Dffbca3995c27/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Seperate_Task_Creaion_From_Starting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1B1B333B-2727-4BAF-814E-E409D2293EC7::net6.0::TestProject1.UnitTest1.Seperate_Task_Creaion_From_Starting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1B1B333B-2727-4BAF-814E-E409D2293EC7::net6.0::TestProject1.UnitTest1.Create_Task_And_Start_Immediatly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1B1B333B-2727-4BAF-814E-E409D2293EC7::net6.0::TestProject1.UnitTest1.Create_Task_With_Factory&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
